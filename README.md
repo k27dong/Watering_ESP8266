@@ -9,4 +9,4 @@
 - Water Pump
 - DHT11 Humidity Sensor
 - SEN0114 Soil Moisture Sensor
-- <a href="https://blynk.io">Blynk</a>
+- <a href="https://blynk.io">Blynk</a> (software)
