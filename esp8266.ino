@@ -20,7 +20,7 @@ void uploadFunction() {}
 
 BLYNK_WRITE(V3)
 {
-  //nt value = param.asInt();
+  // int value = param.asInt();
   int x = param.asInt();
   puloadThread.write("SET", x);
 }
